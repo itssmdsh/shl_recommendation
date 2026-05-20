@@ -76,7 +76,7 @@ print("Loading embedding model...")
 
 model = SentenceTransformer(
 
-    "BAAI/bge-base-en-v1.5",
+    "sentence-transformers/all-MiniLM-L6-v2",
 
     device="cpu"
 )
