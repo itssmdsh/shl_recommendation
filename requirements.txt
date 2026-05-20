@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+scikit-learn
+rank-bm25
+numpy
+torch
+pydantic
+openai
